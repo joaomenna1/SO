@@ -1,0 +1,11 @@
+Tamanho da página: 1, Tempo médio por acesso: 0.12 ms
+Tamanho da página: 2, Tempo médio por acesso: 0.23 ms
+Tamanho da página: 3, Tempo médio por acesso: 0.34 ms
+Tamanho da página: 4, Tempo médio por acesso: 0.45 ms
+Tamanho da página: 5, Tempo médio por acesso: 0.56 ms
+Tamanho da página: 6, Tempo médio por acesso: 0.67 ms
+Tamanho da página: 7, Tempo médio por acesso: 0.78 ms
+Tamanho da página: 8, Tempo médio por acesso: 0.89 ms
+Tamanho da página: 9, Tempo médio por acesso: 1.00 ms
+Tamanho da página: 10, Tempo médio por acesso: 1.11 ms
+...
